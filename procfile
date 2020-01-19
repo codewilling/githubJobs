@@ -1,0 +1,2 @@
+release: worker/index.js
+web: node api/index.js
